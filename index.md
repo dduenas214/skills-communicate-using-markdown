@@ -5,6 +5,3 @@
 # <h5>Hello</h5>
 # <h6>Hello</h6>
 
-
-
-I was just bessing with headers and determining which one has the smallest function.
